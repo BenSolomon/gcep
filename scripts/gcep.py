@@ -3,7 +3,6 @@ import gcep_config
 import pandas as pd
 import re
 
-
 class gcep:
     """
     Class that takes parameters query to the GCEP API and parses response data
@@ -107,22 +106,25 @@ class gcep:
             _type_: _description_
         """        
         df = self.proband_table()
-        df = df[['Gene', 'Disease', 'label','HPO terms']].explode("HPO terms")
+        df = df[['Gene', 'Disease', 'label','HPO terms']].explode("HPO terms", ignore_index=True)
         df['HPO terms'] = df['HPO terms'].apply(self._format_hpo_string) 
         df = df.join(pd.json_normalize(df.pop('HPO terms')))
         df = df.dropna(subset=['HPO_ID'])
         return df
                 
-gcep_query = gcep(
-    api_key = gcep_config.api_key_pird, 
-    gcep_url = gcep_config.gcep_url,
-    status = "approved",
-    affiliation=gcep_config.affiliation_pird,
-    start = "2024-12-01", 
-    end = "2025-01-31"
+if __name__ == "__main__":
+    # If run as script to test, create a gcep object and print some data 
+    gcep_query = gcep(
+        api_key = gcep_config.api_key_pird, 
+        gcep_url = gcep_config.gcep_url,
+        status = "approved",
+        affiliation=gcep_config.affiliation_pird,
+        start = "2024-12-01", 
+        end = "2025-01-31"
     )
-
-print(gcep_query.genes)
-print(gcep_query.table)
-print(gcep_query.proband_table())
-print(gcep_query.hpo_table())
+    
+    print(gcep_query.n_genes)
+    print(gcep_query.genes)
+    print(gcep_query.table)
+    print(gcep_query.proband_table())
+    print(gcep_query.hpo_table())
