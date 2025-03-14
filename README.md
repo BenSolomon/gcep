@@ -24,6 +24,8 @@ R
 
 - `scripts/gcep.py` - Contains `gcep` class with functionality to query ClinGen API and generate HPO tables for each proband
 - `scripts/gcep_config.py` - Must be created. Should contain the following information:
+- `scripts/gcep_scrape.py` - Contains `gcep_scrape` class with functionality to query ClinGen website directly without API. Allows query of all probands without a unique key necessary for each GCEP 
+- `scripts/gcep_scrape_pipeline.py` - Contains script to query ClinGen database from command line using an HGNC gene ID. 
 
 ```python
 gcep_url="[ClinGen API URL]"
@@ -34,6 +36,7 @@ affiliation_scid = "[SCID GCEP Affiliation ID]"
 ```
 
 - `create_hpo_distance_object.py` - Makes a query using a `gcep` object and returns two distance matrices: (1) the distance between probands based on HPO-term sets and (2) the distance between all individual HPO-terms present in the data. Packages these matrices and associated metadata into an `hdf5` file that is saved to `data/`
+- `scripts/hpo_openai_embedding.py` - Obatins the OpenAI embedding values for the name of all HPO terms in the HPO database and writes it to the data dir. 
 
 ### Data dir
 
