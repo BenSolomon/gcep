@@ -1,0 +1,583 @@
+gene,table,table_description,subtable,subtable_description
+11q23del,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+14q32,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+ACD,9,Bone marrow failure,0,None
+ACD,9,Bone marrow failure,0,None
+ACP5,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+ACTB,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+ADA,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+ADA2,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+ADAM17,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+ADAR1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+AICDA,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+AICDA,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+AIRE,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+AIRE,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+AK2,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+ALPK1,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+ALPI,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+AP1S3,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+AP3B1,4,Diseases of Immune Dysregulation,2,FHL Syndromes with Hypopigmentation
+AP3D1,4,Diseases of Immune Dysregulation,2,FHL Syndromes with Hypopigmentation
+APOL1,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+ARHGEF1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+ARPC1B,2,Combined immunodeficiencies with associated or syndromic features,1,Immunodeficiency with Congenital Thrombocytopenia
+ARPC5,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+ATAD3A,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+ATAD3A,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+ATG4A,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+ATM,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+ATP6AP1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+B2M,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+BACH2,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+BCL10,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+BCL11B,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+BLM,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+BLNK,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+BRCA1,9,Bone marrow failure,0,None
+BRCA2,9,Bone marrow failure,0,None
+BRIP1,9,Bone marrow failure,0,None
+BTK,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+C1QA,8,Complement Deficiencies,0,None
+C1QB,8,Complement Deficiencies,0,None
+C1QC,8,Complement Deficiencies,0,None
+C1R,8,Complement Deficiencies,0,None
+C1R,8,Complement Deficiencies,0,None
+C1S,8,Complement Deficiencies,0,None
+C1S,8,Complement Deficiencies,0,None
+C2,8,Complement Deficiencies,0,None
+C2orf69,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+C3,8,Complement Deficiencies,0,None
+C3,8,Complement Deficiencies,0,None
+C4A+C4B,8,Complement Deficiencies,0,None
+C5,8,Complement Deficiencies,0,None
+C6,8,Complement Deficiencies,0,None
+C7,8,Complement Deficiencies,0,None
+C8A,8,Complement Deficiencies,0,None
+C8B,8,Complement Deficiencies,0,None
+C8G,8,Complement Deficiencies,0,None
+C9,8,Complement Deficiencies,0,None
+CARD11,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+CARD11,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+CARD11,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CARD14,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+CARD9,6,Defects in intrinsic and innate immunity,5,Predisposition to invasive fungal infections
+CARMIL2,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+CASP10,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+CASP8,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+CBLB,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+CCBE1,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+CCR2,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+CD19,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+CD20,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+CD21,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+CD247,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+CD27,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+CD274,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+CD28,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+CD3D,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+CD3E,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+CD3G,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CD40,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CD40LG,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CD46,8,Complement Deficiencies,0,None
+CD46,8,Complement Deficiencies,0,None
+CD55,8,Complement Deficiencies,0,None
+CD59,8,Complement Deficiencies,0,None
+CD70,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+CD79A,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+CD79B,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+CD81,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+CD8A,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CDC42,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+CDCA7,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+CEBPE,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+CEBPE,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+CFB,8,Complement Deficiencies,0,None
+CFB,8,Complement Deficiencies,0,None
+CFD,8,Complement Deficiencies,0,None
+CFH,8,Complement Deficiencies,0,None
+CFH,8,Complement Deficiencies,0,None
+CFHR1,8,Complement Deficiencies,0,None
+CFHR1,8,Complement Deficiencies,0,None
+CFI,8,Complement Deficiencies,0,None
+CFI,8,Complement Deficiencies,0,None
+CFP,8,Complement Deficiencies,0,None
+CFTR,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+CHD7,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+CHUK,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CIB1,6,Defects in intrinsic and innate immunity,2,Epidermodysplasia verruciformis (HPV)
+CIITA,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CLCN7,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+CLCN7,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+CLPB,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+CLPB,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+COPA,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+COPG1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+CORO1A,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+CRACR2A,2,Combined immunodeficiencies with associated or syndromic features,8,Calcium Channel Defects
+CSF2RA,5,Congenital defects of phagocyte number or function,4,Other Non-Lymphoid Defects
+CSF2RB,5,Congenital defects of phagocyte number or function,4,Other Non-Lymphoid Defects
+CSF3R,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+CTC1,9,Bone marrow failure,0,None
+CTLA4,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+CTNNBL1,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+CTPS1,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+CTSC,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+CXCR2,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+CXCR4,6,Defects in intrinsic and innate immunity,2,Epidermodysplasia verruciformis (HPV)
+CYBA,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+CYBB,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+CYBB,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+CYBC1,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+DBF4,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+DBR1,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+DCLRE1B,9,Bone marrow failure,1,Bone marrow failure
+DCLRE1C,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+DEF6,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+Del10p13-p14,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+DIAPH1,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+DKC1,9,Bone marrow failure,0,None
+DNAJC21,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+DNASE1L3,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+DNASE2,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+DNMT3B,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+DOCK11,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+DOCK2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+DOCK8,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+DPP9,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+DUT,9,Bone marrow failure,1,Bone marrow failure
+EFL1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+ELANE,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+ELF4,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+EPG5,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+ERBIN,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+ERCC4,9,Bone marrow failure,0,None
+ERCC6L2,2,Combined immunodeficiencies with associated or syndromic features,9,Other Defects
+ERN1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+EXTL3,2,Combined immunodeficiencies with associated or syndromic features,4,Immuno-osseous Dysplasias
+FAAP24,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+FADD,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+FANCA,9,Bone marrow failure,0,None
+FANCB,9,Bone marrow failure,0,None
+FANCC,9,Bone marrow failure,0,None
+FANCD2,9,Bone marrow failure,0,None
+FANCE,9,Bone marrow failure,0,None
+FANCF,9,Bone marrow failure,0,None
+FANCI,9,Bone marrow failure,0,None
+FANCL,9,Bone marrow failure,0,None
+FANCM,9,Bone marrow failure,0,None
+FAT4,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+FCGR3A,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+FCHO1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+FCN3,8,Complement Deficiencies,0,None
+FERMT1,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+FERMT3,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+FLT3LG,2,Combined immunodeficiencies with associated or syndromic features,9,Other Defects
+FNIP1,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+FOXI3,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+FOXN1,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+FOXN1,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+FOXP3,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+FPR1,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+G6PC3,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+G6PD,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+G6PT1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+GATA2,5,Congenital defects of phagocyte number or function,4,Other Non-Lymphoid Defects
+GFI1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+GIMAP5,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+GIMAP6,4,Diseases of Immune Dysregulation,2,FHL Syndromes with Hypopigmentation
+GINS1,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+GINS4,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+GTF3A,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+HAVCR2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+HAX1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+HCK,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+HELLS,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+HMOX1,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+HYOU1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+ICOS,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+ICOSLG,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IFIH1,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+IFIH1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+IFNAR1,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+IFNAR2,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+IFNG,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IFNGR1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IFNGR1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IFNGR2,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IGHM,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+IGKC,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+IGLL1,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+IKBKB,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IKBKB,2,Combined immunodeficiencies with associated or syndromic features,7,Anhidrotic Ectodermodysplasia with Immunodeficiency (EDA-ID)
+IKBKE,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+IKBKG,2,Combined immunodeficiencies with associated or syndromic features,7,Anhidrotic Ectodermodysplasia with Immunodeficiency (EDA-ID)
+IKBKG,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+IKZF1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IKZF1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+IKZF1,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+IKZF2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IKZF2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IKZF2,2,Combined immunodeficiencies with associated or syndromic features,1,Immunodeficiency with Congenital Thrombocytopenia
+IKZF3,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+IL10,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+IL10RA,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+IL10RB,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+IL12B ,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IL12RB1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IL12RB2,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IL17F,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+IL17RA,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+IL17RC,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+IL18BP,6,Defects in intrinsic and innate immunity,9, Other inborn errors of immunity related to leukocytes
+IL1R1,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+IL1RN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+IL21,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IL21R,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IL23R,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IL27RA,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+IL2RA,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+IL2RB,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+IL2RG,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+IL36RN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+IL6R,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+IL6ST,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+IL6ST,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+IL7R,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+INO80,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+IRAK1,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+IRAK4,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+IRAK4,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+IRF1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IRF2BP2,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+IRF3,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+IRF4,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+IRF4,6,Defects in intrinsic and innate immunity,9, Other inborn errors of immunity related to leukocytes
+IRF7,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+IRF8,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IRF8,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+IRF9,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+ISG15,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+ITCH,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+ITGB2,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+ITK,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+ITPKB,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+ITPR3,2,Combined immunodeficiencies with associated or syndromic features,8,Calcium Channel Defects
+JAGN1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+JAK1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+JAK1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+JAK3,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+KARS1,3,Predominantly Antibody Deficiencies,2,"Severe Reduction in at Least 2 Serum Immunoglobulin Isotypes with Normal or Low Number of B Cells, CVID Phenotype"
+KDM6A,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+KMT2A,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+KMT2D,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+LACC1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+LAMTOR2,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+Large,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+LAT,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+LCK,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+LCP2,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+LIG1,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+LIG4,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+LPIN2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+LRBA,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+LSM11,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+LY96,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency
+LYN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+LYST,4,Diseases of Immune Dysregulation,2,FHL Syndromes with Hypopigmentation
+MAD2L2,9,Bone marrow failure,0,None
+MAGT1,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+MALT1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+MAN2B2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+MAP1LC3B2,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+MAP3K14,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+MAPK8,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+MASP2,8,Complement Deficiencies,0,None
+MCM10,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+MCM4,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+MCTS1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+MECOM,9,Bone marrow failure,0,None
+MEFV,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+MEFV,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+MOGS,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+MRTFA,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+MSH6,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+MSN,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+MTHFD1,2,Combined immunodeficiencies with associated or syndromic features,6,Defects of Vitamin B12 and Folate Metabolism
+MVK,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+MYD88,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+MYSM1,2,Combined immunodeficiencies with associated or syndromic features,4,Immuno-osseous Dysplasias
+NBAS,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+NBEAL2,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+NBN,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+NCF1,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+NCF2,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+NCF4,5,Congenital defects of phagocyte number or function,3,Defects of Respiratory Burst
+NCKAPIL,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+NCSTN,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+NFAT5,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+NFATC1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+NFATC2,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+NFE2L2,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+NFKB1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+NFKB2,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+NFKBIA,2,Combined immunodeficiencies with associated or syndromic features,7,Anhidrotic Ectodermodysplasia with Immunodeficiency (EDA-ID)
+NHEJ1,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+NLRC4,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP1,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP1,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP12,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP3,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP3,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NLRP3,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+NOD2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+NOLA2,9,Bone marrow failure,0,None
+NOLA3,9,Bone marrow failure,0,None
+NOS2,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+NSMCE3,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+NUDCD3,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+OAS1,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+OAS1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+OAS2,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+ORAI1,2,Combined immunodeficiencies with associated or syndromic features,8,Calcium Channel Defects
+OSTM1,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+OTULIN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+OTULIN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+OTULIN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PALB2,9,Bone marrow failure,0,None
+PARN,9,Bone marrow failure,0,None
+PAX1,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+PAX5,3,Predominantly Antibody Deficiencies,1,"Severe Reduction in All Serum Immunoglobulin Isotypes with Profoundly Decreased or Absent B Cells, Agammaglobulinemia"
+PDCD1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+PEPD,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+PGM3,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+PIK3CD,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+PIK3CD,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+PIK3CG,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+PIK3R1,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+PIK3R1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+PLCG1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+PLCG2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PLEKHM1,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+PMS2,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+PMVK,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+PNP,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+POLA1,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+POLD1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+POLD2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+POLD3,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+POLE1,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+POLE2,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+POLR3A,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+POLR3C,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+POLR3F,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+POMP,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+POU2AF1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+PRF1,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+PRIM1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+PRKCD,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+PRKDC,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+PSEN,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+PSENEN,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+PSMB10,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+PSMB10,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMB4,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMB8,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMB8,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMB9,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMB9,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMD12,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSMG2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PSTPIP1,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+PTCRA,2,Combined immunodeficiencies with associated or syndromic features,9,Other Defects
+PTEN,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+PTPRC,1,Immunodeficiencies affecting cellular and humoral immunity,1,T-B+ SCID
+RAB27A,4,Diseases of Immune Dysregulation,2,FHL Syndromes with Hypopigmentation
+RAC2,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+RAC2,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+RAC2,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+RAD50,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+RAD51,9,Bone marrow failure,0,None
+RAD51C,9,Bone marrow failure,0,None
+RAG1,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+RAG2,1,Immunodeficiencies affecting cellular and humoral immunity,2,T-B- SCID
+RANBP2,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+RASGRP1,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+RBCK1,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+RECQL4,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+REL,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RELA,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RELA,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+RELB,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RFWD3,9,Bone marrow failure,0,None
+RFX5,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RFXANK,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RFXAP,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RHBDF2,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+RHOG,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+RHOH,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+RIPK1,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+RIPK1,7,Autoinflammatory Disorders,2,Defects Affecting the Inflammasome
+RIPK3,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+RMRP,2,Combined immunodeficiencies with associated or syndromic features,4,Immuno-osseous Dysplasias
+RNASEH2A,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+RNASEH2B,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+RNASEH2C,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+RNASEL,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+RNF168,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+RNF31,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+RNU4ATAC,2,Combined immunodeficiencies with associated or syndromic features,4,Immuno-osseous Dysplasias
+RNU7-1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+RORC,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+RPSA,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+RTEL1,9,Bone marrow failure,0,None
+RTEL1,9,Bone marrow failure,0,None
+SAMD9,9,Bone marrow failure,0,None
+SAMD9L,9,Bone marrow failure,0,None
+SAMHD1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+SASH3,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+SBDS,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+SEC61A1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+SEMA3E,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+SERPING1,8,Complement Deficiencies,0,None
+SGPL1,2,Combined immunodeficiencies with associated or syndromic features,9,Other Defects
+SH2B3,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+SH2D1A,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+SH3BP2,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+SH3KBP1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+SHARPIN,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+SKIV2L,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+SLC19A1,2,Combined immunodeficiencies with associated or syndromic features,6,Defects of Vitamin B12 and Folate Metabolism
+SLC29A3,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+SLC35C1,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+SLC39A7,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+SLC46A1,2,Combined immunodeficiencies with associated or syndromic features,6,Defects of Vitamin B12 and Folate Metabolism
+SLC7A7,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+SLX4,9,Bone marrow failure,0,None
+SMARCAL1,2,Combined immunodeficiencies with associated or syndromic features,4,Immuno-osseous Dysplasias
+SMARCD2,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+SNORA31,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+SNX10,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+SOCS1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+SP110,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+SPI1,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+SPINK5,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+SPPL2A,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+SRP19,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+SRP54,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+SRP72,9,Bone marrow failure,0,None
+SRPRA,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+STAT1,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+STAT1,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+STAT1,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+STAT2,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+STAT2,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+STAT3,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+STAT3,4,Diseases of Immune Dysregulation,3,Regulatory T Cell Defects
+STAT4,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+STAT5B,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+STAT5B,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+STAT6,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+STIM1,2,Combined immunodeficiencies with associated or syndromic features,8,Calcium Channel Defects
+STING1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+STING1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+STK4,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+STN1,9,Bone marrow failure,0,None
+STX11,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+STXBP2,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+STXBP2,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+SYK,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+TAP1,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TAP2,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TAPBP,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TAZ,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+TBK1,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TBK1,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+TBX1,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+TBX21,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+TCF3,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+TCF3,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+TCIRG1,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+TCN2,2,Combined immunodeficiencies with associated or syndromic features,6,Defects of Vitamin B12 and Folate Metabolism
+TERC,9,Bone marrow failure,0,None
+TERT,9,Bone marrow failure,0,None
+TERT,9,Bone marrow failure,0,None
+TET2,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+TFRC,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TGFB1,4,Diseases of Immune Dysregulation,5,Immune Dysregulation with Colitis
+TGFBR1,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+TGFBR2,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+THBD,8,Complement Deficiencies,0,None
+TICAM1,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TICAM1,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TINF2,9,Bone marrow failure,0,None
+TIRAP,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+TLR3,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TLR3,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TLR4,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency
+TLR7,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+TLR7,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
+TLR8,6,Defects in intrinsic and innate immunity,7,TLR Signaling Pathway Deficiency with Bacterial Susceptibility
+TMC6,6,Defects in intrinsic and innate immunity,2,Epidermodysplasia verruciformis (HPV)
+TMC8,6,Defects in intrinsic and innate immunity,2,Epidermodysplasia verruciformis (HPV)
+TNFAIP3,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+TNFRSF11A,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+TNFRSF13B,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+TNFRSF13C,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+TNFRSF1A,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+TNFRSF4,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TNFRSF6,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+TNFRSF6,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+TNFRSF9,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+TNFSF11,6,Defects in intrinsic and innate immunity,8,Other Inborn Errors of Immunity Related to Non-Hematopoietic Tissues
+TNFSF12,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+TNFSF13,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+TNFSF6,4,Diseases of Immune Dysregulation,6,"Autoimmune Lymphoproliferative Syndrome (ALPS, Canale Smith syndrome)"
+TNFSF9,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+TOP2B,3,Predominantly Antibody Deficiencies,1,Agammaglobulinemia
+TP53,9,Bone marrow failure,0,None
+TPP2,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+TRAC,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+TRAF3,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+TRAF3,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+TRAF3IP2,6,Defects in intrinsic and innate immunity,6,Predisposition to Mucocutaneous Candidiasis
+TREX1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+TREX1,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+TRIM22,7,Autoinflammatory Disorders,3,Non-Inflammasome Related Conditions
+TRNT1,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+TTC37,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+TTC7A,2,Combined immunodeficiencies with associated or syndromic features,9,Other Combined immunodeficiencies wwith syndromic features
+TYK2,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+TYK2,6,Defects in intrinsic and innate immunity,1,Mendelian Susceptibility to mycobacterial disease (MSMD)
+UBE2T,9,Bone marrow failure,0,None
+UNC13D,4,Diseases of Immune Dysregulation,1,Familial Hemophagocytic Lymphohistiocytosis (FHL syndromes)
+UNC93B1,4,Diseases of Immune Dysregulation,4,Autoimmunity with or without Lymphoproliferation
+UNC93B1,6,Defects in intrinsic and innate immunity,4,Herpes Simplex Encephalitis (HSE)
+UNG,3,Predominantly Antibody Deficiencies,3,"Severe Reduction in Serum IgG and IgA with Normal/Elevated IgM and Normal Numbers of B cells, Hyper IgM"
+Unknown,3,Predominantly Antibody Deficiencies,2,CVID Phenotype
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,3,Predominantly Antibody Deficiencies,4,"Isotype, Light Chain, or Functional Deficiencies with Generally Normal Numbers of B Cells"
+Unknown,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+Unknown,2,Combined immunodeficiencies with associated or syndromic features,3,Thymic Defects with Additional Congenital Anomalies
+USB1,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+USP18,7,Autoinflammatory Disorders,1,Type 1 Interferonopathies
+VPS13B,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+VPS45,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+WAS,2,Combined immunodeficiencies with associated or syndromic features,1,Immunodeficiency with Congenital Thrombocytopenia
+WAS,5,Congenital defects of phagocyte number or function,1,Congenital Neutropenias
+WDR1,5,Congenital defects of phagocyte number or function,2,Defects of Motility
+WIPF1,2,Combined immunodeficiencies with associated or syndromic features,1,Immunodeficiency with Congenital Thrombocytopenia
+WRAP53,9,Bone marrow failure,0,None
+XIAP,4,Diseases of Immune Dysregulation,7,Susceptibility to EBV and Lymphoproliferative Conditions
+XRCC2,9,Bone marrow failure,0,None
+XRCC9,9,Bone marrow failure,0,None
+ZAP70,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+ZAP70,1,Immunodeficiencies affecting cellular and humoral immunity,3,Combined Immunodeficiencies Generally Less Profound than Severe Combined Immunodeficiency
+ZBTB24,2,Combined immunodeficiencies with associated or syndromic features,2,DNA Repair Defects other than those listed in Table 1
+ZNF341,2,Combined immunodeficiencies with associated or syndromic features,5,Hyper IgE Syndromes (HIES)
+ZNFX1,6,Defects in intrinsic and innate immunity,3,Predisposition to Severe Viral Infection
